@@ -17,8 +17,13 @@ Designing a keylogger in python
 https://www.geeksforgeeks.org/design-a-keylogger-in-python/
 
 Libs 
-Pyhook: a wrapper for global input hooks in windows. 
-Pywin32: extensions for windows: to install pywin32 system files
+Pyhook:
+
+a wrapper for global input hooks in windows. 
+
+Pywin32:
+
+extensions for windows: to install pywin32 system files
 
 windows and linux 
 
