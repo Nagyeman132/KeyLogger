@@ -1,13 +1,15 @@
 Keylogger:
 
 Main Objective:
-1.Record keystrokes on a computer
-2.Send report logs back within a time interval (send to an email)
+1. Record keystrokes on a computer
+2. Send report logs back within a time interval (send to an email)
 
 To Add:
+
 On/Off switch - whre attacker can turn keylogger on and off remotely 
 
 Advanced Level: 
+
 Undetectable keylogger through USB or trojan
 https://github.com/Veil-Framework/Veil
 
