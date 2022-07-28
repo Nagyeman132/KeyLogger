@@ -7,6 +7,7 @@ Main Objective:
 To Add:
 
 On/Off switch - whre attacker can turn keylogger on and off remotely 
+ 
 
 Advanced Level: 
 
@@ -21,14 +22,6 @@ Libs
 pynput
 This library allows you to control and monitor input devices.
 
-Pyhook:
-
-a wrapper for global input hooks in windows. 
-
-Pywin32:
-
-extensions for windows: to install pywin32 system files
-
 windows and linux 
 
 how to make a keylogger in python 
@@ -37,8 +30,28 @@ Best Sample with discussion
 
 SUDO 
 
+classes:
+on_press - to track every key pressed w save counter
+write_file - saves text file after each cycle
+on_release - ends program 
+
+
 classes to be built:
-1. EmailCreate - settings to send log to (SMTP setup possibly)
-2. KeyboardEvents - register each character with capability to recongize special characters 
-3. Timinginterval - loop that starts after first keystroke 
-4. FileCreation - creation of txt file to send to email.
+
+
+
+7/27 Update 
+
+Main Objective:
+1. Record keystrokes on a computer (X)
+2. Send report logs back within a time interval (send to an email) 
+On/Off switch - whre attacker can turn keylogger on and off remotely(X)
+
+
+Source code (freecodebootcamp)
+https://www.youtube.com/watch?v=TbMKwl11itQ&t=620s
+
+To Add:
+Email Connection with program.
+Sources to Use:
+https://www.thepythoncode.com/article/write-a-keylogger-python
