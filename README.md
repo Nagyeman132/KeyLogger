@@ -44,14 +44,20 @@ classes to be built:
 
 Main Objective:
 1. Record keystrokes on a computer (X)
+
 2. Send report logs back within a time interval (send to an email) 
+
 On/Off switch - whre attacker can turn keylogger on and off remotely(X)
 
 
 Source code (freecodebootcamp)
+
 https://www.youtube.com/watch?v=TbMKwl11itQ&t=620s
 
 To Add:
+
 Email Connection with program.
+
 Sources to Use:
+
 https://www.thepythoncode.com/article/write-a-keylogger-python
