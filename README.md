@@ -17,6 +17,10 @@ Designing a keylogger in python
 https://www.geeksforgeeks.org/design-a-keylogger-in-python/
 
 Libs 
+
+pynput
+This library allows you to control and monitor input devices.
+
 Pyhook:
 
 a wrapper for global input hooks in windows. 
