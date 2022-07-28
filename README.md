@@ -40,7 +40,7 @@ classes to be built:
 
 
 
-7/27 Update 
+7/27 Update
 
 Main Objective:
 1. Record keystrokes on a computer (X)
