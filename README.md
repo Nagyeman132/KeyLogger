@@ -30,7 +30,7 @@ Best Sample with discussion
 
 SUDO 
 
-classes:
+def:
 on_press - to track every key pressed w save counter
 write_file - saves text file after each cycle
 on_release - ends program 
@@ -50,7 +50,7 @@ Main Objective:
 On/Off switch - whre attacker can turn keylogger on and off remotely(X)
 
 
-Source code (freecodebootcamp)
+Source code (freecodecamp)
 
 https://www.youtube.com/watch?v=TbMKwl11itQ&t=620s
 
