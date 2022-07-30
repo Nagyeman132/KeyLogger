@@ -61,3 +61,8 @@ Email Connection with program.
 Sources to Use:
 
 https://www.thepythoncode.com/article/write-a-keylogger-python
+
+New Challenge,
+
+Finding an email provider that allows third party apps 
+
